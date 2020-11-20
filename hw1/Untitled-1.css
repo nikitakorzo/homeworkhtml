@@ -4,11 +4,17 @@ body {
 #title {
     font-size: 150px;
     font-style: italic;
-    text-align: left;
-    font-stretch: expanded;
+    text-align: center;
+    font-stretch: 12px;
     font-weight: 900;
 
 }
-#image {
-    text-align: right;
+img {
+    width: 100px;
+}
+
+.border {
+    border: 2px solid black;
+    margin: auto;
+    width: 500px;
 }
