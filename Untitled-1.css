@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(252, 255, 81, 0.904);
+} 
+#title {
+    font-size: 150px;
+    font-style: italic;
+    text-align: center;
+    font-stretch: expanded;
+    font-weight: 900;
+
+}
+#image {
+    text-align: right;
+}
