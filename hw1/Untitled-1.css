@@ -1,6 +1,7 @@
-body {
+.main-color{
     background-color: rgba(252, 255, 81);
-} 
+}
+
 #title {
     font-size: 140px;
     font-style: italic;
@@ -93,4 +94,3 @@ body {
 .you-think span{
     background:  rgba(247, 65, 65, 0.925);
 }
-
