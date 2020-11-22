@@ -28,9 +28,9 @@
 
 
 .line {
-    font-size: 20px;
-    font-weight: lighter;
-    color: rgb(129, 118, 118);
+    font-size: 27px;
+    font-weight: bold;
+    color: rgb(87, 83, 83);
     text-transform: uppercase;
     line-height: 1.5;
     text-align: center;
