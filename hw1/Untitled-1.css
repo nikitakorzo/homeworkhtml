@@ -76,9 +76,17 @@
     padding-top: 10px;
 }
 
-.than span {
-    background: rgba(247, 65, 65, 0.925);
+.than span{
+    border: none;
+    background-color: rgba(247, 65, 65, 0.925);
+    padding: 0px 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+
 }
+
 
 .you-think{
     text-align: center;
@@ -92,5 +100,12 @@
 }
 
 .you-think span{
-    background:  rgba(247, 65, 65, 0.925);
+    border: none;
+    background-color: rgba(247, 65, 65, 0.925);
+    padding: 0px 40px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+
 }
